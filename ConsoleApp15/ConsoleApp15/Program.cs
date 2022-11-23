@@ -14,6 +14,12 @@ namespace ConsoleApp15
 			
 			texto = "nova implementação!";
 			
+			texto = "nova linha";
+			texto = "nova linha";
+			texto = "nova linha";
+			texto = "nova linha";
+			texto = "nova linha";
+			
         }
     }
 }
