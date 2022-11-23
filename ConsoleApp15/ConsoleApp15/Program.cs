@@ -10,16 +10,6 @@ namespace ConsoleApp15
     {
         static void Main(string[] args)
         {
-			string texto = "";
-			
-			texto = "nova implementação!";
-			
-			texto = "nova linha";
-			texto = "nova linha";
-			texto = "nova linha";
-			texto = "nova linha";
-			texto = "nova linha";
-			
         }
     }
 }
